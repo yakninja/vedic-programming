@@ -1,4 +1,4 @@
-# veda-programming
+# vedic-programming
 
 Quick and dirty generator [for vedicprogramming.tumblr.com](https://vedicprogramming.tumblr.com/)
 
